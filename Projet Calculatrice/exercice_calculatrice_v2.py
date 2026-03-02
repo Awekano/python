@@ -1,0 +1,1 @@
+#Faire les mêmes fonctions que la V1 mais avec entrées utilisateur

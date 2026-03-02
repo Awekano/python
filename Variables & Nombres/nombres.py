@@ -1,3 +1,4 @@
+#La fonction type() permet de voir le type des variables
 age = 19
 print(age)
 print(type(age))

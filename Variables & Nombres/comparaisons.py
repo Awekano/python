@@ -1,3 +1,4 @@
+#Outils de comparaisons en Python
 age = 25
 print(age == 25) #Est-ce que age est = à 25
 print(age != 25) #Est-ce que age est différent de 25

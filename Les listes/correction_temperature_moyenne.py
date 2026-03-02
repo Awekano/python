@@ -1,4 +1,4 @@
-#Objectif : calculer la moyenne des température de la liste temperatures
+#Objectif : calculer la moyenne des température de la liste temperatures CORRECTION
 temperatures = [23,22,19,26,24,28,26]
 moyenne = 0
 for i in temperatures:

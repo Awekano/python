@@ -1,3 +1,4 @@
+#Exerice il faut coder un programme qui en fonction de l'entrée utilisateur dira si le chiffre est pair ou impair CORRECTION
 nombre = int(input("Entre un nombre entier : "))
 
 if nombre % 2 == 0:

@@ -1,3 +1,4 @@
+#Faire un programme qui permet de calculer l'IMC d'une personne, formule : poids/taille² CORRECTION
 poids = float(input("Quel est votre poids (en Kg) : "))
 taille = float(input("Quel est votre taille (en m): "))
 IMC = poids/(taille**2)

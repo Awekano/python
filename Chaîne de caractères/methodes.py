@@ -1,3 +1,4 @@
+#Méthode lower, upper, count et find, utiles dans les chaîne de caractères et pour les listes
 texte = "Hello, World !"
 print(texte)
 #min

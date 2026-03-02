@@ -1,4 +1,5 @@
-#Ceci est une chaîne de caractères
+##Découverte chaîne de caractère
+# Ceci est une chaîne de caractères
 print("Hello, world !")
 
 #Défini par la classe str

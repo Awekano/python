@@ -1,0 +1,1 @@
+#Faire un programme qui permet de calculer l'IMC d'une personne, formule : poids/taille²

@@ -1,4 +1,4 @@
-#Objectif calculer la monnaie à la fin des courses
+#Objectif calculer la monnaie à la fin des courses CORRECTION
 achat_1 = 12.4
 quantite_1 = 1
 achat_2 = 7.5

@@ -1,3 +1,4 @@
+#Le tranchage permet de récupérer des parties précises d'une chaîne de caractère
 nom_complet = "Aïnhoa BAYLE"
 
 prenom = nom_complet[:6]

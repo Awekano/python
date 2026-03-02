@@ -1,0 +1,1 @@
+#Créer un code qui permet de déterminer si un nombre est premier

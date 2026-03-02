@@ -1,3 +1,4 @@
+#Découverte bibliothèque math en Python (ultra-utile)
 import math
 
 print(math.pi)

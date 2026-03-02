@@ -1,3 +1,4 @@
+#La concatenation permet "d'additionner certaine variables entre elle"
 prenom = "Enzo"
 nom = "BAYLE--SOCHELEAU"
 age = 19

@@ -1,3 +1,4 @@
+#L'indexage et le tranchage fonctionnent aussi pour les listes
 loto = [2,8,15,22,42]
 villes = ["Angoulême", "Angers", "Lyon", "Paris"]
 liste_demo = [19,"Angers",3.1415]

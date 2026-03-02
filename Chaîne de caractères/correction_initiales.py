@@ -1,4 +1,4 @@
-#Récupérer les initales d'un nom ou phrases
+#Récupérer les initales d'un nom ou phrases CORRECTION
 nom_complet = input("Nom complet : ")
 
 nom_complet_split = nom_complet.split(" ")

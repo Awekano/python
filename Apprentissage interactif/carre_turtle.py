@@ -1,4 +1,5 @@
 #A utiliser dans python (Terminal)
+#Turtle permet de dessiner des formes 
 import turtle
 turtle.getscreen()
 turtle.shape("turtle")

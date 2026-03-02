@@ -1,3 +1,4 @@
+#La fonction enumerate() permet d'énumérer les listes de manière vertical
 villes = ["Angers", "Paris", "Angoulême"]
 departement = ["49", "75", "16"]
 

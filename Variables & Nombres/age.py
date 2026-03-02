@@ -1,3 +1,4 @@
+#Déclaration de variables de bases en Python
 age = 15 
 print("Aïnhoa à", age, "ans")
 prenom = input("Quel est votre prénom : ")

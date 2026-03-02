@@ -1,3 +1,4 @@
+#La fonction in permet de vérifier si une valeur est dans une liste et l'inverse pour not in 
 prenom = ["Nathan", "Etienne", "Enzo"]
 
 print("Etienne" in prenom)

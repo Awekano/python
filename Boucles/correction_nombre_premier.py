@@ -1,4 +1,4 @@
-#Créer un code qui permet de déterminer si un nombre est premier
+#Créer un code qui permet de déterminer si un nombre est premier CORRECTION
 
 nombre = int(input("Nombre : "))
 divisible = False

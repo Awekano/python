@@ -1,3 +1,4 @@
+#Découverte des différentes façon de calculer en Python
 print(10-5)
 print(10*5)
 print(15-5)
