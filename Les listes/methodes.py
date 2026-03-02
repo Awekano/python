@@ -11,7 +11,7 @@ print(loto)
 occurence = loto.count(2)
 print(occurence)
 
-#index() permet de connaitre la position d'un élement dans une liste
+#index() permet de connaitre la position d'un élément dans une liste
 idx = loto.index(69)
 print(idx)
 
