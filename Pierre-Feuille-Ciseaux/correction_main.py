@@ -7,11 +7,11 @@ choix_utilisateur = input("pierre, feuille ou ciseaux : ")
 
 if choix_utilisateur in options:
     if choix_utilisateur == choix_bot:
-        print("Égalité !")
+        print(f"Égalité, l'ordinateur à également choisi {choix_bot}")
     else:
         if choix_utilisateur == "pierre" and choix_bot == "ciseaux" or choix_utilisateur == "ciseaux" and choix_bot == "feuille" or choix_utilisateur == "feuille" and choix_bot == "pierre":
-            print(f"Gagné !")
+            print(f"Gagné, l'ordinateur à choisi {choix_bot}")
         else:
-            print(f"Perdu !")
+            print(f"Perdu, l'ordinateur à choisi {choix_bot}")
 else:
     print("Choix invalide")
