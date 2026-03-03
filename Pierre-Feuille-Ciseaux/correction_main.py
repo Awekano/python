@@ -13,3 +13,5 @@ if choix_utilisateur in options:
             print(f"Gagné !")
         else:
             print(f"Perdu !")
+else:
+    print("Choix invalide")
