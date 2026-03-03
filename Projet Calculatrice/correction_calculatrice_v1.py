@@ -1,4 +1,4 @@
-#Créer une calculatrice qui fait addition,soustraction,division,multiplicaton à partir de deux nombres
+#Créer une calculatrice qui fait addition,soustraction,division,multiplicaton à partir de deux nombres CORRECTION
 
 nombre_1 = 10
 nombre_2 = 5
