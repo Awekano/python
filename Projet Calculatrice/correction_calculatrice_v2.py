@@ -1,7 +1,7 @@
 #Faire les mêmes fonctions que la V1 mais avec entrées utilisateur CORRECTION
 
-nombre_1 = input("Nombre 1 : ")
-nombre_2 = input("Nombre 2 : ")
+nombre_1 = input("Choix nombre 1 : ")
+nombre_2 = input("Choix nombre 2 : ")
 
 nombre_1 = float(nombre_1)
 nombre_2 = float(nombre_2)
