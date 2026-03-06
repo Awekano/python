@@ -7,7 +7,12 @@ class Personne():
         print(f"Infos : {self.prenom} {self.nom} {self.age}")
 
 class Etudiant(Personne):
-    pass
+    def __init__(self, nom, prenom, age, notes):
+        super().__init__(nom, prenom, age)
+        self.notes = notes
+    def afficher_infos(self):
+        return super().afficher_infos()
 
-etudiant_n1 = Etudiant("BAYLE", "Enzo", 19)
+etudiant_n1 = Etudiant("BAYLE", "Enzo", 19, {"Mathématiques" : 15, "Anglais" : 19, "Informatique": 12})
 etudiant_n1.afficher_infos()
+print(etudiant_n1.notes)
