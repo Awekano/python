@@ -11,8 +11,8 @@ class Etudiant(Personne):
         super().__init__(nom, prenom, age)
         self.notes = notes
     def afficher_infos(self):
-        return super().afficher_infos()
+        super().afficher_infos()
+        print(f"Voici mes notes {self.notes}")
 
 etudiant_n1 = Etudiant("BAYLE", "Enzo", 19, {"Mathématiques" : 15, "Anglais" : 19, "Informatique": 12})
 etudiant_n1.afficher_infos()
-print(etudiant_n1.notes)
